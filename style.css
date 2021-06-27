@@ -1,0 +1,65 @@
+
+
+
+
+
+
+html { 
+    background: url(pic.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+header{
+    padding: 45px 0;
+    margin-bottom: 40px;
+}
+
+
+
+
+.container{
+    width: 100%;
+    float:center;
+    margin: 0 auto;
+    color: beige;
+    /**border: 2px solid magenta;**/
+
+
+}
+
+.center{
+    margin-left: 35%;
+    position: relative;
+  
+    
+    
+
+
+}
+
+.forward{
+    margin-left: 42%;
+    position: relative;
+    bottom: 40px;
+
+
+}
+
+.backward{
+    margin-left: 42%;
+    position: relative;
+    top: 40px;
+
+
+
+}
+
+
+
+
+
+
